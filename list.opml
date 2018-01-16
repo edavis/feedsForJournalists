@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Feeds for Journalists</title>
-    <dateCreated>2018-01-15T20:02:56Z</dateCreated>
+    <dateCreated>2018-01-16T19:55:01Z</dateCreated>
     <docs>https://github.com/edavis/feedsForJournalists</docs>
     <ownerId>https://github.com/edavis</ownerId>
   </head>
@@ -65,6 +65,7 @@
     <outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/face-the-nation" text="http://www.cbsnews.com/latest/rss/face-the-nation"/>
     <outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/politics" text="http://www.cbsnews.com/latest/rss/politics"/>
     <outline type="rss" xmlUrl="http://www.dailywire.com/rss.xml" text="http://www.dailywire.com/rss.xml"/>
+    <outline type="rss" xmlUrl="http://www.europeanvoice.com/feed/" text="http://www.europeanvoice.com/feed/"/>
     <outline type="rss" xmlUrl="http://www.internethistorypodcast.com/feed/" text="http://www.internethistorypodcast.com/feed/"/>
     <outline type="rss" xmlUrl="http://www.memeorandum.com/feed.xml" text="http://www.memeorandum.com/feed.xml"/>
     <outline type="rss" xmlUrl="http://www.npr.org/rss/rss.php?id=1014" text="http://www.npr.org/rss/rss.php?id=1014"/>
@@ -87,6 +88,7 @@
     <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/World.xml" text="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
     <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml" text="http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml"/>
     <outline type="rss" xmlUrl="http://www.politico.com/rss/politicopicks.xml" text="http://www.politico.com/rss/politicopicks.xml"/>
+    <outline type="rss" xmlUrl="http://www.poynter.org/feed/" text="http://www.poynter.org/feed/"/>
     <outline type="rss" xmlUrl="http://www.slate.com/articles/news_and_politics.fulltext.all.rss" text="http://www.slate.com/articles/news_and_politics.fulltext.all.rss"/>
     <outline type="rss" xmlUrl="http://www.techmeme.com/index.xml" text="http://www.techmeme.com/index.xml"/>
     <outline type="rss" xmlUrl="http://www.theguardian.com/books/rss" text="http://www.theguardian.com/books/rss"/>
@@ -105,6 +107,7 @@
     <outline type="rss" xmlUrl="http://www.vox.com/rss/index.xml" text="http://www.vox.com/rss/index.xml"/>
     <outline type="rss" xmlUrl="http://www.wired.com/feed/" text="http://www.wired.com/feed/"/>
     <outline type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" text="https://www.axios.com/feeds/feed.rss"/>
+    <outline type="rss" xmlUrl="https://www.businessoffashion.com/syndication/feed" text="https://www.businessoffashion.com/syndication/feed"/>
     <outline type="rss" xmlUrl="https://www.theatlantic.com/feed/all/" text="https://www.theatlantic.com/feed/all/"/>
   </body>
 </opml>
