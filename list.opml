@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Feeds for Journalists</title>
-    <dateCreated>2018-01-16T19:55:01Z</dateCreated>
+    <dateCreated>2018-01-17T16:28:29Z</dateCreated>
     <docs>https://github.com/edavis/feedsForJournalists</docs>
     <ownerId>https://github.com/edavis</ownerId>
   </head>
@@ -16,6 +16,7 @@
     <outline type="rss" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" text="http://feeds.feedburner.com/fastcompany/headlines"/>
     <outline type="rss" xmlUrl="http://feeds.feedburner.com/JamesFallows" text="http://feeds.feedburner.com/JamesFallows"/>
     <outline type="rss" xmlUrl="http://feeds.feedburner.com/JonathanChaitRssFeed" text="http://feeds.feedburner.com/JonathanChaitRssFeed"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/pbs/mediashift-blog" text="http://feeds.feedburner.com/pbs/mediashift-blog"/>
     <outline type="rss" xmlUrl="http://feeds.feedburner.com/PoliticalWire" text="http://feeds.feedburner.com/PoliticalWire"/>
     <outline type="rss" xmlUrl="http://feeds.feedburner.com/realclearpolitics/qlMj" text="http://feeds.feedburner.com/realclearpolitics/qlMj"/>
     <outline type="rss" xmlUrl="http://feeds.feedburner.com/scotusblog/pFXs" text="http://feeds.feedburner.com/scotusblog/pFXs"/>
@@ -26,6 +27,8 @@
     <outline type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/politics?format=xml" text="http://feeds.foxnews.com/foxnews/politics?format=xml"/>
     <outline type="rss" xmlUrl="http://feeds.latimes.com/movies/reviews/" text="http://feeds.latimes.com/movies/reviews/"/>
     <outline type="rss" xmlUrl="http://feeds.nytimes.com/nyt/rss/Books" text="http://feeds.nytimes.com/nyt/rss/Books"/>
+    <outline type="rss" xmlUrl="http://feeds.publicradio.org/public_feeds/apm-reports/rss/rss" text="http://feeds.publicradio.org/public_feeds/apm-reports/rss/rss"/>
+    <outline type="rss" xmlUrl="http://feeds.reuters.com/reuters/INbusinessNews" text="http://feeds.reuters.com/reuters/INbusinessNews"/>
     <outline type="rss" xmlUrl="http://feeds.reuters.com/reuters/worldNews" text="http://feeds.reuters.com/reuters/worldNews"/>
     <outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/entertainment" text="http://feeds.washingtonpost.com/rss/entertainment"/>
     <outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/lifestyle" text="http://feeds.washingtonpost.com/rss/lifestyle"/>
@@ -41,14 +44,17 @@
     <outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/world" text="http://feeds.washingtonpost.com/rss/world"/>
     <outline type="rss" xmlUrl="http://feeds2.feedburner.com/dawn-all-news" text="http://feeds2.feedburner.com/dawn-all-news"/>
     <outline type="rss" xmlUrl="http://georgelakoff.com/feed/" text="http://georgelakoff.com/feed/"/>
+    <outline type="rss" xmlUrl="http://hnrss.org/newest?points=200" text="http://hnrss.org/newest?points=200"/>
     <outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305" text="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305"/>
     <outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd" text="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd"/>
     <outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa" text="http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa"/>
     <outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3" text="http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3"/>
+    <outline type="rss" xmlUrl="http://krugman.blogs.nytimes.com/feed/" text="http://krugman.blogs.nytimes.com/feed/"/>
     <outline type="rss" xmlUrl="http://mediagazer.com/feed.xml" text="http://mediagazer.com/feed.xml"/>
     <outline type="rss" xmlUrl="http://mondaynote.com/feed" text="http://mondaynote.com/feed"/>
     <outline type="rss" xmlUrl="http://om.co/feed/" text="http://om.co/feed/"/>
     <outline type="rss" xmlUrl="http://pressthink.org/feed/" text="http://pressthink.org/feed/"/>
+    <outline type="rss" xmlUrl="http://qz.com/feed/" text="http://qz.com/feed/"/>
     <outline type="rss" xmlUrl="http://qz.com/feed/" text="http://qz.com/feed/"/>
     <outline type="rss" xmlUrl="http://radio3.io/users/davewiner/rss.xml" text="http://radio3.io/users/davewiner/rss.xml"/>
     <outline type="rss" xmlUrl="http://rss.cbc.ca/lineup/world.xml" text="http://rss.cbc.ca/lineup/world.xml"/>
@@ -56,18 +62,24 @@
     <outline type="rss" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml" text="http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"/>
     <outline type="rss" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml" text="http://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml"/>
     <outline type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMovies-TopStories" text="http://rssfeeds.usatoday.com/UsatodaycomMovies-TopStories"/>
+    <outline type="rss" xmlUrl="http://stratechery.com/feed/" text="http://stratechery.com/feed/"/>
     <outline type="rss" xmlUrl="http://talkingpointsmemo.com/feed/all" text="http://talkingpointsmemo.com/feed/all"/>
     <outline type="rss" xmlUrl="http://thinkprogress.org/feed" text="http://thinkprogress.org/feed"/>
     <outline type="rss" xmlUrl="http://truth-out.org/feed?format=feed" text="http://truth-out.org/feed?format=feed"/>
     <outline type="rss" xmlUrl="http://www.aclu.org/taxonomy/feed-term/362/feed" text="http://www.aclu.org/taxonomy/feed-term/362/feed"/>
     <outline type="rss" xmlUrl="http://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989" text="http://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989"/>
+    <outline type="rss" xmlUrl="http://www.axios.com/feeds/feed.rss" text="http://www.axios.com/feeds/feed.rss"/>
+    <outline type="rss" xmlUrl="http://www.ben-evans.com/benedictevans?format=RSS" text="http://www.ben-evans.com/benedictevans?format=RSS"/>
+    <outline type="rss" xmlUrl="http://www.businessoffashion.com/syndication/feed" text="http://www.businessoffashion.com/syndication/feed"/>
     <outline type="rss" xmlUrl="http://www.buzzfeed.com/tech.xml" text="http://www.buzzfeed.com/tech.xml"/>
     <outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/face-the-nation" text="http://www.cbsnews.com/latest/rss/face-the-nation"/>
     <outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/politics" text="http://www.cbsnews.com/latest/rss/politics"/>
     <outline type="rss" xmlUrl="http://www.dailywire.com/rss.xml" text="http://www.dailywire.com/rss.xml"/>
+    <outline type="rss" xmlUrl="http://www.engadget.com/rss.xml" text="http://www.engadget.com/rss.xml"/>
     <outline type="rss" xmlUrl="http://www.europeanvoice.com/feed/" text="http://www.europeanvoice.com/feed/"/>
     <outline type="rss" xmlUrl="http://www.internethistorypodcast.com/feed/" text="http://www.internethistorypodcast.com/feed/"/>
     <outline type="rss" xmlUrl="http://www.memeorandum.com/feed.xml" text="http://www.memeorandum.com/feed.xml"/>
+    <outline type="rss" xmlUrl="http://www.niemanlab.org/feed/" text="http://www.niemanlab.org/feed/"/>
     <outline type="rss" xmlUrl="http://www.npr.org/rss/rss.php?id=1014" text="http://www.npr.org/rss/rss.php?id=1014"/>
     <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Americas.xml" text="http://www.nytimes.com/services/xml/rss/nyt/Americas.xml"/>
     <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Arts.xml" text="http://www.nytimes.com/services/xml/rss/nyt/Arts.xml"/>
@@ -87,10 +99,12 @@
     <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/TheCity.xml" text="http://www.nytimes.com/services/xml/rss/nyt/TheCity.xml"/>
     <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/World.xml" text="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
     <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml" text="http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml"/>
+    <outline type="rss" xmlUrl="http://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/by/dan-barry/rss.xml" text="http://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/by/dan-barry/rss.xml"/>
     <outline type="rss" xmlUrl="http://www.politico.com/rss/politicopicks.xml" text="http://www.politico.com/rss/politicopicks.xml"/>
     <outline type="rss" xmlUrl="http://www.poynter.org/feed/" text="http://www.poynter.org/feed/"/>
     <outline type="rss" xmlUrl="http://www.slate.com/articles/news_and_politics.fulltext.all.rss" text="http://www.slate.com/articles/news_and_politics.fulltext.all.rss"/>
     <outline type="rss" xmlUrl="http://www.techmeme.com/index.xml" text="http://www.techmeme.com/index.xml"/>
+    <outline type="rss" xmlUrl="http://www.theatlantic.com/feed/all/" text="http://www.theatlantic.com/feed/all/"/>
     <outline type="rss" xmlUrl="http://www.theguardian.com/books/rss" text="http://www.theguardian.com/books/rss"/>
     <outline type="rss" xmlUrl="http://www.theguardian.com/business/diversity-and-equality/rss" text="http://www.theguardian.com/business/diversity-and-equality/rss"/>
     <outline type="rss" xmlUrl="http://www.theguardian.com/business/economics/rss" text="http://www.theguardian.com/business/economics/rss"/>
@@ -104,10 +118,8 @@
     <outline type="rss" xmlUrl="http://www.theguardian.com/world/asia/rss" text="http://www.theguardian.com/world/asia/rss"/>
     <outline type="rss" xmlUrl="http://www.theguardian.com/world/europe-news/rss" text="http://www.theguardian.com/world/europe-news/rss"/>
     <outline type="rss" xmlUrl="http://www.theguardian.com/world/middleeast/rss" text="http://www.theguardian.com/world/middleeast/rss"/>
+    <outline type="rss" xmlUrl="http://www.variety.com/rss.asp?categoryid=10" text="http://www.variety.com/rss.asp?categoryid=10"/>
     <outline type="rss" xmlUrl="http://www.vox.com/rss/index.xml" text="http://www.vox.com/rss/index.xml"/>
     <outline type="rss" xmlUrl="http://www.wired.com/feed/" text="http://www.wired.com/feed/"/>
-    <outline type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" text="https://www.axios.com/feeds/feed.rss"/>
-    <outline type="rss" xmlUrl="https://www.businessoffashion.com/syndication/feed" text="https://www.businessoffashion.com/syndication/feed"/>
-    <outline type="rss" xmlUrl="https://www.theatlantic.com/feed/all/" text="https://www.theatlantic.com/feed/all/"/>
   </body>
 </opml>
